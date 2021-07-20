@@ -1,2 +1,2 @@
-下記コマンドで分割ファイルを結合してください
-COPY /B forest-planning.zip.001+forest-planning.zip.002+forest-planning.zip.003+forest-planning.zip.004+forest-planning.zip.005+forest-planning.zip.006+forest-planning.zip.007+forest-planning.zip.008+forest-planning.zip.009+forest-planning.zip.010+forest-planning.zip.011+forest-planning.zip.012 forest-planning.zip
+荳玖ｨ倥さ繝槭Φ繝峨〒蛻�蜑ｲ繝輔ぃ繧､繝ｫ繧堤ｵ仙粋縺励※縺上□縺輔＞
+COPY /B forest-planning.zip.001+forest-planning.zip.002+forest-planning.zip.003+forest-planning.zip.004+forest-planning.zip.005+forest-planning.zip.006+forest-planning.zip.007+forest-planning.zip.008+forest-planning.zip.009+forest-planning.zip.010+forest-planning.zip.011 forest-planning.zip
